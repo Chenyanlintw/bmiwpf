@@ -9,6 +9,7 @@
     <StackPanel Orientation="Horizontal">
         <TextBlock>Hello</TextBlock>
         <TextBox>cbcvb</TextBox>
+        <Rectangle Width="100" Height="200" Fill="blue"></Rectangle>
         <Button Margin="20" Padding="20" Click="Button_Click">Click</Button>
     </StackPanel>
 </Window>
